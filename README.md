@@ -1,2 +1,2 @@
 # insurance
-Naive Bayes
+Naive Bayes | Decision Tree
